@@ -36,7 +36,7 @@ This project provides a PowerShell script to automate the installation of **pyen
 To automate the pyenv installation, follow these steps:
 
 1. **Download the PowerShell Script:**
-   - Download the PowerShell script (`https://github.com/mustafa-ali0/install-Multiple-Python-Versions/archive/refs/heads/main.zip`) from this repository.
+   - Download the PowerShell script [![Download ZIP](https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge)](https://github.com/mustafa-ali0/install-Multiple-Python-Versions/archive/refs/heads/main.zip) from this repository.
 
 2. **Run the Script:**
    - Right-click the script file and select **Run with PowerShell**. The script will:

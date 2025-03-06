@@ -1,6 +1,4 @@
-# install-Multiple-Python-Versions
-
-# **install-Multiple-Python-Versions for Windows**
+# **Automation of install Multiple Python Versions for Windows**
 
 This project automates the installation of **pyenv** on Windows, allowing users to manage multiple Python versions seamlessly. The provided PowerShell script simplifies the setup and configuration of **pyenv**, setting environment variables and handling version management.
 

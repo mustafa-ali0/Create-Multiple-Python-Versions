@@ -134,12 +134,6 @@ To use **pyenv** in **VSCode**, follow these steps to configure the terminal to 
 ---
 
 
-## How to update pyenv
-If installed via pip
-Add your pyenv-win installation path to easy_install.pth file located in site-packages. This should make pip recognise pyenv-win as installed.
-Get updates via pip 
-``` pip install --upgrade pyenv-win ```
-
 ## **Acknowledgments**
 
 This project utilizes the [pyenv-win](https://github.com/pyenv-win/pyenv-win) repository to manage Python versions on Windows. Special thanks to the contributors of **pyenv-win** for their work.

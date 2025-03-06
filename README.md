@@ -34,8 +34,8 @@ This project provides a PowerShell script to automate the installation of **pyen
 1. **Download the PowerShell Script:**
    - Download the PowerShell script [![Download ZIP](https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge)](https://github.com/mustafa-ali0/install-Multiple-Python-Versions/archive/refs/heads/main.zip) from this repository.
 
-2. **Run the Script:**
-   - Right-click the script file and select **Run with PowerShell**. The script will:
+2. **Run the install_pyenv.bat:**
+   - The script will do this :
      - Download the pyenv repository.
      - Extract the pyenv files to your **.pyenv** folder.
      - Set environment variables for **pyenv**.
@@ -147,5 +147,3 @@ This project utilizes the [pyenv-win](https://github.com/pyenv-win/pyenv-win) re
 With this automation script and manual setup guide, you can efficiently manage multiple Python versions on your Windows system. Enjoy working with **pyenv** and simplifying your Python development workflows!
 
 ---
-
-Feel free to use this README as a professional guide to your project, and share it with the community. Let me know if you'd like further modifications!

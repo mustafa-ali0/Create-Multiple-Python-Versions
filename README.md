@@ -2,7 +2,7 @@
 
 This Script automates the process of installing and managing multiple Python versions using pyenv on your Windows system. The script ensures a smooth setup and handles Python versions efficiently.
 
-Table of Contents
+# Table of Contents
 Automated Installation
 Manual Steps
 VSCode Configuration

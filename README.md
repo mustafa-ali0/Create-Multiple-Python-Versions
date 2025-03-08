@@ -25,7 +25,7 @@ This project provides a PowerShell script to automate the installation of **pyen
 - Automates the download and installation of **pyenv-win**.
 - Sets environment variables for **pyenv** automatically.
 - Adds **pyenv** to the system **PATH** for seamless access.
-- Creates a virtual environment for Python projects and integrates it with **VSCode**.
+- Creates a virtual environment for Python projects and integrates it with **VSCode, etc...**.
 
 ---
 
